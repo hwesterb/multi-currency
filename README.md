@@ -12,7 +12,3 @@ Multi is a decentralized, multi-asset-backed currency where the reserve composit
 ## Key Innovation
 
 The system creates natural quality filtering: participants only propose assets they believe will increase in value, as poor proposals result in lost stakes while successful ones earn rewards.
-
-## Learn More
-
-For detailed information about the Foresight Protocol and how Multi works, please read the [whitepaper](multi_whitepaper.pdf) or visit [multicurrency.io](https://multicurrency.io).

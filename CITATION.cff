@@ -8,10 +8,11 @@ title: "Multi: A Self-Improving Currency Leveraging Collective Intelligence"
 version: 1.0.0
 date-released: 2025-01-31
 url: "https://github.com/henrik-westerberg/multi-currency"
-keywords:
-  - cryptocurrency
-  - game-theory
-  - collective-intelligence
-  - decentralized-finance
-  - self-improving-systems
-abstract: "A decentralized, multi-asset-backed currency that continuously improves its reserve composition through competitive dynamics and collective intelligence."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Westerberg"
+    given-names: "Henrik"
+  title: "Multi: A Self-Improving Currency Leveraging Collective Intelligence"
+  year: 2025
+  url: "https://github.com/henrik-westerberg/multi-currency"
